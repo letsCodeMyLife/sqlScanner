@@ -8,7 +8,7 @@ setup(
     version="1.0.0",
     author="Henning Arvid Ladewig",
     author_email="anne@opentrash.com",
-    py_modules=["sqlScanner"]
+    py_modules=["sqlScanner"],
     description="Scans .db-files for SQL tables.",
     long_description=readFile("README.md")
 )
